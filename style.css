@@ -1,0 +1,19 @@
+.img-story{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 2px solid rgb(238, 39, 82);
+    margin-right: 7px;
+}
+
+.timeline-photo{
+    position: relative;
+    width: 400px;
+    height: 600px;
+    border-radius: none;
+}
+
+.post-icons{
+    margin: 5px;
+    letter-spacing: 15px;
+}
